@@ -14,7 +14,7 @@ This project involves writing a Python function that performs several operations
 2.  **Open the file**: Open the `.py` file in a Python-compatible editor like VS Code or a simple text editor.
 3.  **Run from the terminal**: Open your terminal or command prompt, navigate to the directory where the file is saved, and run the script using the following command:
     ```bash
-    python your_file_name.py
+    python Abu_Nasim_1033.py
     ```
     _Note: If you encounter an error like "command 'python' not found," try using `python3` instead._
 
